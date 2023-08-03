@@ -1,0 +1,68 @@
+.leftPart {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title {
+    font-size: 64px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    font-family: font2;
+    margin: 0;
+}
+
+.desc {
+    font-size: 22px;
+    font-weight: 100;
+    font-family: font2;
+    text-align: center;
+}
+
+@font-face {
+    font-family: font1;
+    src: url('../../Assets/fonts/font1.otf');
+}
+
+
+@font-face {
+    font-family: font2;
+    src: url('../../Assets/fonts/font2.otf');
+}
+
+
+.currentTool {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    column-gap: 16px;
+    /* background-color: red; */
+
+}
+
+.img img {
+    width: 32px;
+}
+
+
+.ToolDesc {
+    font-size: 16px;
+    font-family: font2;
+    margin: 0;
+}
+
+.ToolDesc::first-letter {
+    text-transform: uppercase;
+}
+
+
+
+.AllTools {
+    /* background-color: blue; */
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
+    /* flex: 1; */
+}

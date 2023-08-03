@@ -1,0 +1,16 @@
+:root {
+    --gridSize: 40;
+
+}
+
+
+.gridParent {
+    display: grid;
+    grid-template-columns: repeat(var(--gridSize), 1fr);
+    grid-template-rows: repeat(var(--gridSize), 1fr);
+    background-color: white;
+    width: 500px;
+    height: 500px;
+
+    box-shadow: 0 0 0.5cm #0000007f;
+}

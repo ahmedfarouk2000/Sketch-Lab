@@ -1,0 +1,8 @@
+.gridCell {
+    background-color: white;
+}
+
+.gridCell:hover {
+    background-color: black;
+    opacity: 0.5;
+}

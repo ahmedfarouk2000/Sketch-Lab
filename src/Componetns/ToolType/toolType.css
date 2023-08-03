@@ -1,0 +1,25 @@
+.toolType {
+
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 16px;
+    transition: all 0.1s;
+    transform-origin: top left;
+    z-index: 1;
+    /* border: solid transparent 3.5px; */
+}
+
+.toolType:hover {
+    /* border: solid white 3.5px; */
+    outline: solid #37D7FF 3.5px;
+}
+
+.addOutline {
+    outline: solid #37D7FF 3.5px;
+}
