@@ -18,3 +18,7 @@ Welcome to Sketch Lab, the ultimate online platform for pixel art! Unleash your 
 ## Quick Tour
 
 
+
+
+https://github.com/ahmedfarouk2000/Sketch-Lab/assets/93868173/1b1ff056-b219-4877-9af6-847ed268817f
+
