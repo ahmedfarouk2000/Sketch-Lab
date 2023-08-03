@@ -9,10 +9,12 @@ Welcome to Sketch Lab, the ultimate online platform for pixel art! Unleash your 
 
 ![screencapture-localhost-3000-2023-08-03-19_35_05](https://github.com/ahmedfarouk2000/Sketch-Lab/assets/93868173/2ba8d396-ce30-48f7-ba3c-f4f2083c37c1)
 
+![screencapture-localhost-3000-2023-08-03-19_42_14](https://github.com/ahmedfarouk2000/Sketch-Lab/assets/93868173/2f58310a-53e0-433b-b7b4-e226b84f36be)
+
+
+![Screenshot 2023-08-03 194444](https://github.com/ahmedfarouk2000/Sketch-Lab/assets/93868173/e841f21a-3b1e-48f3-a3c3-159c4795df09)
+
 ![Uploading screencapture-localhost-3000-2023-08-03-19_42_14.png…]()
-
-
-
 
 
 ## Quick Tour
